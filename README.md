@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApiProgrammer
 - 👀 I’m interested in programming in general and UI design
-- 🌱 I’m currently learning Rust and OpenGL
+- 🌱 I’m currently learning Rust and Vulkan
 
 <!---
 ApiProgrammer/ApiProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
