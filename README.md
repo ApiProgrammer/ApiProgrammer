@@ -1,3 +1,5 @@
+![ApiProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApiProgrammer&show_icons=true&theme=dracula)
+
 - 👋 Hi, I’m @ApiProgrammer
 - 👀 I’m interested in programming in general and UI design
 - 🌱 I’m currently learning Rust and Vulkan
